@@ -1,0 +1,2 @@
+# Hive-Pig-MapReduce-with-New-York-City-Uber-Trips
+Problem Statement: What was the busiest dispatch base by trips for a particular day on entire month?  What day had the most active vehicles.  What day had the most trips sorted by most to fewest.  Dispatching_Base_Number is the NYC taxi &amp; Limousine company code of that base that dispatched the UBER.  active_vehicles shows the number of active UBER vehicles for a particular date &amp; company(base). Trips is the number of trips for a particular base &amp; date.
